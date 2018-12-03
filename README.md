@@ -7,4 +7,4 @@ g++ -o bsh besshell.cpp to make
 2. Run the following to start besshell:
 bsh
 
-(I threw in some hidden easter eggs, hope you like them _).
+(I threw in some hidden easter eggs, hope you like them). _
